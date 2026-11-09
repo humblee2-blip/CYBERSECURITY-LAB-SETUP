@@ -1,2 +1,2 @@
 # CYBERSECURITY-LAB-SETUP
-Cybersecurity Lab (Making way inter Security)
+Cybersecurity Lab (Making way into Security)
